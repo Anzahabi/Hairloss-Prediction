@@ -1,7 +1,0 @@
-streamlit
-matplotlib
-numpy
-joblib
-scikit-learn==1.0.2
-plotly
-from imblearn.over_sampling import SMOTENC
